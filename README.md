@@ -52,3 +52,12 @@ Build
 
  * S. ![wiki](https://github.com/AlizaMedicalImaging/AlizaMS/wiki) for example how to build on Linux.
 
+checkhash
+---------
+
+aliza_2.7.1.1_amd64.deb : 440214d33dcc1d14e18de5d937a3c40686ad93f5a0c82653b7093fa44baa5708
+aliza-2.7.1-1.x86_64.rpm : 380b7df8ee7754260de7da7748764bf5163c9745a52f51e86f994359fc43853e
+alizams-1.9.8-1.x86_64.rpm : 7ca4922c3531b20fe09fda04b75efb0f319fd514ea7ac9b450951fcf4916176d
+alizams-1.9.9-1.x86_64.rpm : 0b31dbbc0ab768fafd1b1873d124f27f4ec5a507da47cc0ff502873525a509f1
+
+
